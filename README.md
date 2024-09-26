@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Søren Orm</h1>
-<h3 align="center">I am currently studying for a MSc. in Social Data Science at the University of Copenhagen. My work focuses on applying advanced data science techniques to socially impactful projects.</h3>
+<h3 align="center"> I'm Søren Orm Hansen, currently pursuing an MSc in Social Data Science at the University of Copenhagen. My professional interests lie at the intersection of data science, social good, cognitive science, and the exploration of social complexity.</h3>
 
 - 🌱 I’m currently learning **D3.js and langchain**
 
