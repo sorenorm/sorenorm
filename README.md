@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Søren Orm</h1>
-<h3 align="center">Working with data science methods to understand cognition and social complexity. MSc. student in Social Data Science - BSc. in Cognitive Science and Mathematics</h3>
-
-- 🔭 I’m currently working on **my master's thesis investigating diversity in European Parliaments in terms of 1) membership, 2) speaking oppotunities, and 3) influence.**
+<h3 align="center">I am currently studying for a MSc. in Social Data Science at the University of Copenhagen. My professional interests include working with data science methods for social good, for understanding cognition, and investigating social complexity.</h3>
 
 - 🌱 I’m currently learning **D3.js and langchain**
 
-- 👯 I’m looking to collaborate on **an R and pyhton package automating assumption checking for various statistical models**
-
 - 📫 How to reach me **sorenorm@live.dk**
 
-- 📄 Check out my website [https://sorenorm.github.io/](https://sorenorm.github.io/)
+- 🌐 Check out my website [https://sorenorm.github.io/](https://sorenorm.github.io/)
+
+- 💡 **Interests:** Data Science for Social Good | Explainable AI | AI Safety | Algorithmic Fairness | Data Visualization | Social Complexity | NLP | Deep Learning
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
